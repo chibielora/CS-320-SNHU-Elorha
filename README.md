@@ -1,5 +1,5 @@
 # CS-320-SNHU-Elorha
-CS-320 Software Test Automation &amp; QA - SNHU
+### Portfolio Submission for Module 8 of CS-320 Software Test Automation &amp; QA - SNHU
 
 - How can I ensure that my code, program, or software is functional and secure?
 - How do I interpret user needs and incorporate them into a program?
